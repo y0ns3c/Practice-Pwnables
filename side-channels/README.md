@@ -8,6 +8,7 @@
 - runtime.py
 - exitcode.py
 - error.py
+- query.py
 
 Python 3.8에서 만들어졌으므로 그 이전 버전에서는 안 돌아갈 수도 있습니다.
 
